@@ -1,0 +1,13 @@
+/* CSS files add styling rules to your content */
+h1 {
+  color: blue;
+}
+
+.navbar {
+  display: flex;
+  margin: 0px auto;
+}
+
+.navbar a {
+  margin: 5px;
+}
